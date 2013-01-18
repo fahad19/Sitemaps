@@ -2,6 +2,8 @@
 
 Sitemaps plugin for Croogo.
 
+Follows the protocol found at: http://www.sitemaps.org/protocol.html
+
 ## Requirements
 
 Croogo v1.5 or higher.
