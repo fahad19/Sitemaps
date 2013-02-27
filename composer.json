@@ -1,7 +1,8 @@
 {
 	"name": "fahad19/Sitemaps",
 	"require": {
-		"php": ">=5.2"
+		"php": ">=5.2",
+		"composer/installers": "*"
 	},
 	"type": "cakephp-plugin",
 	"description": "Sitemaps plugin for Croogo",
