@@ -1,0 +1,19 @@
+{
+	"name": "fahad19/Sitemaps",
+	"require": {
+		"php": ">=5.2"
+	},
+	"type": "plugin",
+	"description": "Sitemaps plugin for Croogo",
+	"keywords": ["croogo","sitemaps","xml","generator"],
+	"homepage": "http://github.com/fahad19/Sitemaps",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Fahad Ibnay Heylaal",
+			"email": "contact@fahad19.com",
+			"homepage": "http://fahad19.com",
+			"role": "Developer"
+		}
+	]
+}
