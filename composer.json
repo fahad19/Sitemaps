@@ -4,7 +4,7 @@
 		"php": ">=5.2",
 		"composer/installers": "*"
 	},
-	"type": "cakephp-plugin",
+	"type": "croogo-plugin",
 	"description": "Sitemaps plugin for Croogo",
 	"keywords": ["croogo","sitemaps","xml","generator"],
 	"homepage": "http://github.com/fahad19/Sitemaps",
