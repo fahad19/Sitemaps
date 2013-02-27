@@ -1,5 +1,5 @@
 {
-	"name": "fahad19/Sitemaps",
+	"name": "fahad19/sitemaps",
 	"require": {
 		"php": ">=5.2",
 		"composer/installers": "*"
