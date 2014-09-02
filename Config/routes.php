@@ -4,4 +4,4 @@ CroogoRouter::connect('/sitemaps', array(
 	'controller' => 'sitemaps',
 	'action' => 'index'
 ));
-Router::setExtensions(['xml']);
+Router::setExtensions(array('xml'));
