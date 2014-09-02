@@ -1,9 +1,7 @@
 <?php
-
-//Router::parseExtensions('xml');
-
-CroogoRouter::connect('/sitemaps.xml', array(
+CroogoRouter::connect('/sitemaps', array(
 	'plugin' => 'sitemaps',
 	'controller' => 'sitemaps',
-	'action' => 'index',
+	'action' => 'index'
 ));
+Router::setExtensions(['xml']);
