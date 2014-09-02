@@ -14,4 +14,17 @@ Clone/Upload the content of this repository to /app/Plugin/Sitemaps, and activat
 
 ## Usage
 
-Visit /sitemaps.xml from your browser.
+Visit /sitemaps.xml or /sitemaps from your browser.
+
+If /sitemaps.xml does not work, ensure that your /Config/routes.php file has
+
+```php
+Router::parseExtensions();
+Router::setExtensions(array('json', 'rss'));
+```
+
+Instead of
+
+```php
+Router::parseExtensions('json', 'rss');
+```
